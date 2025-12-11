@@ -1,0 +1,5 @@
+{
+  "name": "WealthFlow AI",
+  "description": "A comprehensive personal financial management system featuring bank account tracking, stock portfolio management with AI insights, and transaction categorization. Includes interactive reports and a simulated backend for immediate demonstration.",
+  "requestFramePermissions": []
+}
